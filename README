@@ -1,0 +1,11 @@
+
+Author      : Dinesh Devaraj
+
+Contact     : www.techybook.com
+            : dinesh@techybook.com
+
+Created     : 13 Jul 2015 - Mon
+
+Description : C++ library for socket request distribution. Entire code contained 
+              in single source and header makes very simple to include in projects.
+              This project included code from soketpp library
